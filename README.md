@@ -1,2 +1,2 @@
 # Django_CRUD
-Django CRUD task
+Django CRUD task; blog app built with Django
